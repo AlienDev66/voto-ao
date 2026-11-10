@@ -1,0 +1,156 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0c0c0e;
+  --foreground: #fafafa;
+  --muted: #9ca3af;
+  --muted-2: #6b7280;
+  --card: #161618;
+  --card-2: #1c1c1f;
+  --border: #2a2a2e;
+  --accent: #ffd23f;
+  --banner: #ffd23f;
+  --header: #ffffff;
+  --header-fg: #0a0a0b;
+  --surface: #f3f4f6;
+  --surface-card: #ffffff;
+  --success: #16a34a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-muted-2: var(--muted-2);
+  --color-card: var(--card);
+  --color-card-2: var(--card-2);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-banner: var(--banner);
+  --color-header: var(--header);
+  --color-header-fg: var(--header-fg);
+  --color-surface: var(--surface);
+  --color-surface-card: var(--surface-card);
+  --color-success: var(--success);
+  --font-sans: var(--font-display);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-display), ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+::selection {
+  background: var(--accent);
+  color: #111;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 0.2rem 0.7rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.section-title {
+  font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+.light-section {
+  background: var(--surface);
+  color: #0a0a0b;
+}
+
+.soft-card {
+  background: var(--surface-card);
+  border: 1px solid #e5e7eb;
+  border-radius: 1.5rem;
+  transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+}
+
+.soft-card:hover {
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
+  transform: translateY(-1px);
+}
+
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #0a0a0b;
+  font-weight: 650;
+  font-size: 0.925rem;
+  padding: 0.75rem 1.25rem;
+  transition: filter 0.15s ease, transform 0.15s ease;
+}
+
+.btn-primary:hover {
+  filter: brightness(0.97);
+}
+
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border-radius: 999px;
+  border: 1px solid #3f3f46;
+  color: #fafafa;
+  font-weight: 550;
+  font-size: 0.925rem;
+  padding: 0.75rem 1.25rem;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.btn-ghost:hover {
+  background: #1c1c1f;
+  border-color: #52525b;
+}
+
+/* Modo simples: letras maiores, menos ruído visual (telemóvel / pouca literacia digital) */
+html[data-easy="1"] .light-section {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+html[data-easy="1"] .soft-card {
+  border-radius: 1.25rem;
+  box-shadow: none;
+  transform: none;
+}
+
+html[data-easy="1"] .soft-card:hover {
+  transform: none;
+  box-shadow: none;
+}
+
+html[data-easy="1"] h1 {
+  letter-spacing: -0.02em;
+}
+
+html[data-easy="1"] .text-xs,
+html[data-easy="1"] .text-\[11px\],
+html[data-easy="1"] .text-\[12px\] {
+  font-size: 0.85rem;
+  line-height: 1.45;
+}

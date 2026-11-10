@@ -1,0 +1,1381 @@
+{
+  "counts": {
+    "MPLA": 124,
+    "UNITA": 90,
+    "PRS": 2,
+    "FNLA": 2,
+    "PHA": 2
+  },
+  "deputies": [
+    {
+      "fullName": "Adão Francisco Correia de Almeida",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "mesaRole": "Presidente da Assembleia Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Adao_Francisco_Correia_de_Almeida/img/Dx6UB14m0QBmrzuC1A4beuWI8SpBb2UCVwEZeJmT.png"
+    },
+    {
+      "fullName": "Adriano Meireles Patrocínio",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Aia-Eza Nacília Gomes da Silva Troso",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Aia_Eza_Nacilia_Gomes_da__Silva_Troso/img/Dc7iKwJB5oE6iBkx132OrAb4hvlwPLSgzl8jXQdM.png"
+    },
+    {
+      "fullName": "Alcides Severino Mbole Maiacala",
+      "partySlug": "mpla",
+      "electoralCircle": "Uíge",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Alcides_Severino_Mbole_Maiacala/img/MQgkHd01KWRwSbah7wrwyTJw17K7rE7r4Shr2jc2.png"
+    },
+    {
+      "fullName": "Álvaro Manuel de Boavida Neto",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Alvaro_Manuel_de_Boavida_Neto/img/Bj1HNBzIa9Q3XamysQnXOKY0zD6iXRmR1ujPOvYR.png"
+    },
+    {
+      "fullName": "Amélia de Jesus Alberto Camunheira Pinto",
+      "partySlug": "mpla",
+      "electoralCircle": "Namibe",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Amelia_de_Jesus_Alberto_Camunheira/img/K5rHDppFJ2k9yZAknzn4ZVDqvHv0XzLOX8lxBN21.png"
+    },
+    {
+      "fullName": "Amélia Lave Dias Manuel",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuando Cubango",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Amelia_Lave_Dias_Manuel/img/iDikxyWYkKc9B4qnZsNhUisBkClkw2smZt4NIeDL.png"
+    },
+    {
+      "fullName": "Américo António Cuononoca",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "mesaRole": "1.º Vice-Presidente da Assembleia Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Americo_Antonio_Cuononoca/img/PaRDhDVhf38kEfyzttGKyZjJBRAHol4SGp1RfNPe.png"
+    },
+    {
+      "fullName": "Ana António Maria José",
+      "partySlug": "mpla",
+      "electoralCircle": "Malanje",
+      "gender": "F"
+    },
+    {
+      "fullName": "Ana da Purificação Lara de Abreu Pires Delgado",
+      "partySlug": "mpla",
+      "electoralCircle": "Malanje",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Ana_da_Purificacao_Lara_de_Abreu/img/DXl4iE7GOnGEyllm5oXnT6VjSePPPATBGJCEn6Bo.png"
+    },
+    {
+      "fullName": "Ana Maria Cordeiro Alves João",
+      "partySlug": "mpla",
+      "electoralCircle": "Luanda",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Ana_Maria_Cordeiro_Alves/img/blNuvsxFLrZhGIjxMKEUxwOqSFXfs6F2zmxVdiSh.png"
+    },
+    {
+      "fullName": "Anabela Caiovo Gunga",
+      "partySlug": "mpla",
+      "electoralCircle": "Bié",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Anabela_Caiovo_Gunga/img/eOEhLu27Js0HBru8k7JK64glcmTEDtbPZ1RWcDdG.png"
+    },
+    {
+      "fullName": "Anastácio Severino Sambowe",
+      "partySlug": "mpla",
+      "electoralCircle": "Bié",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Anastacio_Severino_Sambowe/img/zpikoY9irXnZZyIoFKNan4xkbNeoiapZXqW7Y6xI.png"
+    },
+    {
+      "fullName": "Anilda Mariana Chivucuvucu",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F"
+    },
+    {
+      "fullName": "António Domingos Pitra Costa Neto",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Antonio_Domingos_Pitra_Costa_Neto/img/EGgKJzXJFoNM60SPULlwOHrZiK9q18xWkAzkZAaL.png"
+    },
+    {
+      "fullName": "António Rodrigues Afonso Paulo",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Antonio_Rodrigues_Afonso_Paulo/img/MdVORGFHJ67ipNeshEYUJNYWRsLNwR6XrUQHpxlQ.png"
+    },
+    {
+      "fullName": "Arlete da Visitação Francisco e Castro Borges",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Arlete_da_Visitacao_Francisco_e_Castro_Borges/img/xwUFcu7JOpN2D5wabqYwmtly8jwGcwDDAdVaYMWH.png"
+    },
+    {
+      "fullName": "Armando Capunda",
+      "partySlug": "mpla",
+      "electoralCircle": "Huambo",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Armando_Capunda/img/xW0mR3Kc8x5I77F3S0tOs0axEFFrdGdgIoLgu2K0.png"
+    },
+    {
+      "fullName": "Arsénio Orlando Satyohamba",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Bento Joaquim Sebastião Francisco Bento",
+      "partySlug": "mpla",
+      "electoralCircle": "Luanda",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Bento_Joaquim_Sebastiao_Francisco_Bento/img/XPukEaXefQcg3kTPLiw8RZdoQrmHdXFCIv9MYeF7.png"
+    },
+    {
+      "fullName": "Bernardete de Lassalete Gourgel da Silva Santana",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Carla Maria Leitão Ribeiro de Sousa",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Carla_Maria_Leitao_Ribeiro_de_Sousa/img/edOGmgqhaYbInNboJIYd7SKrrlBfbP7367xQLFou.png"
+    },
+    {
+      "fullName": "Deolinda Tchocondoca Valiangula",
+      "partySlug": "mpla",
+      "electoralCircle": "Benguela",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Deolinda_Tchocondoca_Valiangula/img/23IwnyOYdQmu0tYPZjKG0AQLcd2Jp9zy7nYSitxF.png"
+    },
+    {
+      "fullName": "Djamila Huguette da Silva de Almeida",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Djamila_Huguette_da_Silva_de_Almeida/img/HIMkR0T34gtCXYJCht2fGEdhNr5ogyNnkxgR7you.png"
+    },
+    {
+      "fullName": "Dolina Nassocópia Miguel Tchinhama",
+      "partySlug": "mpla",
+      "electoralCircle": "Huambo",
+      "gender": "F"
+    },
+    {
+      "fullName": "Edna Beneque Queximalunga da Costa",
+      "partySlug": "mpla",
+      "electoralCircle": "Lunda-Norte",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Edna_Beneque_Queximalunga/img/25bGIlIINOMMWjzIpNZRtDuRvsTIV8rUbgRPWYI8.png"
+    },
+    {
+      "fullName": "Elisa Solanje de Almeida Paxe",
+      "partySlug": "mpla",
+      "gender": "F",
+      "electoralCircle": "Lunda-Norte",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Elisa_Solange_de_Almeida_Paxe/img/Uw4H71bi1fZpijwkmZTIIsWulyDcC7gPrsNd1P6H.png"
+    },
+    {
+      "fullName": "Elisandra Mônica Rodrigues Coelho",
+      "partySlug": "mpla",
+      "gender": "F",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Elizandra Janete Gourgel Wassuca",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Elizandra_Janete_Gourgel_Wassuca/img/bl3Z6rxbg3qlTsY89ALA9WtunttZ4NdwfInKzjc3.png"
+    },
+    {
+      "fullName": "Emília Carlota Sebastião Celestino Dias",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Emilia_Carlota_Sebastiao_Celestino_Dias/img/jQacTu4ipVh9kD5V3WzLkRYlIjSSqqPN1GqR4LmQ.png"
+    },
+    {
+      "fullName": "Emília da Conceição Panjimba Paulo",
+      "partySlug": "mpla",
+      "electoralCircle": "Bié",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Emilia_da_Conceicao_Panjimba/img/QLC7lZ6TMtyjp3y7hf0SOwY5cNVVJFNDv32wmYit.png"
+    },
+    {
+      "fullName": "Emília Cambundo Tchinawalile António Salles Camuhôto",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuanza-Sul"
+    },
+    {
+      "fullName": "Esperança Luzia Jackson Pembele da Conceição",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Esperanca_Luzia_Jackson_Pembele/img/kmTkAd4a9SbUr2nKkLS5dPEh7nGqNwlbFuXg8fUf.png"
+    },
+    {
+      "fullName": "Esteves Carlos Hilário",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Esteves_Carlos_Hilario/img/rpfyZQq5u2XklTKnlFTSJqTwte6Ii6R6lpjtaqFd.png"
+    },
+    {
+      "fullName": "Eva Gonçalves da Costa",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Eva_Goncalves_da_Costa/img/7ynvSnLwxzahIieulbW9S5gXrfjUoSqEjeOtDC8x.png"
+    },
+    {
+      "fullName": "Felino Job",
+      "partySlug": "mpla",
+      "electoralCircle": "Moxico",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Felino_Job/img/lIsI9sTS7P5IHXDa9Y03aLt2FZ0ueXLpQ1wysLXj.png"
+    },
+    {
+      "fullName": "Felizmina Maria Valentim Lutucuta de Sousa",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Felizmina_Maria_Valentim_Lutucuta_de_Sousa/img/jEJyKZaBKIF4QOmBF72MskjihcaLgZPwlxanT6Bo.png"
+    },
+    {
+      "fullName": "Fernanda Deolinda Sumbo Guerra",
+      "partySlug": "mpla",
+      "gender": "F",
+      "electoralCircle": "Zaire",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Fernanda_Deolinda_Sumbo_Guerra/img/RGQz8fMlbb6MdmrOTP40ygYWVehnXLdY8No5UHZu.png"
+    },
+    {
+      "fullName": "Fernanda Filomena dos Santos",
+      "partySlug": "mpla",
+      "electoralCircle": "Huíla",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Fernanda_Filomena_dos_Santos/img/Ikkbnuof2z498fmhhQ9XJ5h81ceLTYDAG7zmtACm.png"
+    },
+    {
+      "fullName": "Gilberto Manuel Pereira",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuanza-Sul",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Gilberto_Manuel_Pereira/img/NaWwTpD3Lz3ycnQEpdIfbgnVMIIrjdm189tWyXIg.png"
+    },
+    {
+      "fullName": "Gonçalves Manuel Muandumba",
+      "partySlug": "mpla",
+      "electoralCircle": "Moxico"
+    },
+    {
+      "fullName": "Helena Berta Buca Vando Marciano",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Helena_Berta_Buca_Vando_Marciano/img/gDKM1paNXds4GyCkpgpARpKLYIuIocML1qyBW3Xf.png"
+    },
+    {
+      "fullName": "Hemingarda João Fernandes",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Hemingarda_Joao_Fernandes/img/Ul8KXKWxM0YVor2w6bGBN47dO9grab9kyXMMOeNv.png"
+    },
+    {
+      "fullName": "Ilda de Fátima da Silva Almeida Martins",
+      "partySlug": "mpla",
+      "electoralCircle": "Huíla",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Ilda_de_Fatima_da_Silva_/img/7csZ0aMgfS4KnbxA1Imc3yk7PQ8yHdVKG1VC0C6R.png"
+    },
+    {
+      "fullName": "Ireno Nauta Domingos Nambalo",
+      "partySlug": "mpla",
+      "electoralCircle": "Cunene",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Ireno_Nauta_Domingos_Nambalo/img/eBOox5YydsxeFQBSl3oAKU6ObWzhG1CEdzDDH0ax.png"
+    },
+    {
+      "fullName": "Isolina Teresa Pinto",
+      "partySlug": "mpla",
+      "electoralCircle": "Moxico",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Isolina_Teresa_Pinto/img/4RpyzbtK1CW2JK1cTimsR6F50m68wFdYlJy9ZNuQ.png"
+    },
+    {
+      "fullName": "João António Lineha Muhembo",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuando Cubango"
+    },
+    {
+      "fullName": "João de Almeida Azevedo Martins",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joao_de_Almeida_Azevedo_Martins/img/XefnWQ1FsxAByZFoAiQYgrdXxYxsXq64yVMEGUlt.png"
+    },
+    {
+      "fullName": "João José Guerra de Freitas",
+      "partySlug": "mpla",
+      "electoralCircle": "Namibe",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joao_Jose_Guerra_De_Freitas/img/E86hU4UDYQbYNE6AcWMfkNqRkR575P1GRPle4jqz.png"
+    },
+    {
+      "fullName": "João Mpilamosi Domingos",
+      "partySlug": "mpla",
+      "electoralCircle": "Bengo",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joao_Mpilamosi_Domingos/img/1DrhUohloGmPUokORzdjACLecZu97NF4BgSSRk6U.png"
+    },
+    {
+      "fullName": "João Segunda Ungaji",
+      "partySlug": "mpla",
+      "electoralCircle": "Lunda-Sul",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joao_Segunda_Ungaji/img/tjR80Y66D129MBqo2ogqNLzADfhvgZe3DWWXVfOv.png"
+    },
+    {
+      "fullName": "Joaquim António Carlos dos Reis Júnior",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joaquim_Antonio_Carlos_dos_Reis_Junior/img/PF07SeRxSXH0cYjhWIk9FO4wFHQoWiKEbiG5guTf.png"
+    },
+    {
+      "fullName": "Joaquim Frederico D'Almeida",
+      "partySlug": "mpla",
+      "electoralCircle": "Benguela"
+    },
+    {
+      "fullName": "Joaquim José Miguéis",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joaquim_Jose_Migueis/img/VjZn6HkJNF1VYPxXaivCndfVU1AW9PZvnzEMeRO6.png"
+    },
+    {
+      "fullName": "Job Pedro Castelo Capapinha",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuanza-Sul"
+    },
+    {
+      "fullName": "Jorge Inocêncio Dombolo",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Jorge Ribeiro Uefu",
+      "partySlug": "mpla",
+      "electoralCircle": "Lunda-Norte",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Jorge_Ribeiro_Uefu/img/Y6HLvT8vMvw418J8DUyA70BRodparJ5caprkWSak.png"
+    },
+    {
+      "fullName": "José António Lopes Semedo",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Jose_Antonio_Lopes_Semedo/img/BCUG0EmNxJaDqFXJXItdMWmtVFw8da6CtGrhGok0.png"
+    },
+    {
+      "fullName": "José Artur Carmo Manuel",
+      "partySlug": "mpla",
+      "electoralCircle": "Cabinda"
+    },
+    {
+      "fullName": "José Miúdo Ndambuca",
+      "partySlug": "mpla",
+      "electoralCircle": "Huíla",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Jose_Miudo_Ndambuca/img/WzeSTINduDNp9Ri5Mek87MVKEErrKE120qrNiUTl.png"
+    },
+    {
+      "fullName": "Julieta Carlos Baptista Vicente",
+      "partySlug": "mpla",
+      "electoralCircle": "Namibe",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Julieta_Carlos_Baptista_Vicente/img/GbkKVwBiY4PAHjUNUP9ZsToxwGlPH8dqmOyPerEO.png"
+    },
+    {
+      "fullName": "Kilamba Kiuyma Sebastião Van-Dúnem",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Leonor da Silva Ferreira Garibaldi de Lima e Cruz",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuanza-Norte",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Leonor_da_Silva_Ferreira_Garibaldi_de_Lima_e_Cruz/img/1HIKBNovyGhZ6AMpuEq4iOZ6mbUhOYL423MPdFbt.png"
+    },
+    {
+      "fullName": "Lizete da Conceição Manuel Gonga",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Lizete_da_Conceicao_Manuel_Gonga/img/kxi26Od4XVB3u7xZv8VK3A06F2fZlvg0BC2H2dAM.png"
+    },
+    {
+      "fullName": "Lotti Nolika",
+      "partySlug": "mpla",
+      "electoralCircle": "Huambo",
+      "gender": "F"
+    },
+    {
+      "fullName": "Lúcia Yoleni Sincopela",
+      "partySlug": "mpla",
+      "electoralCircle": "Cunene",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Lucia_Yoleni_Sincopela/img/nXxCsG6kxlNiwpBWT5LBpBMviBRcjxFxIkukgbTi.png"
+    },
+    {
+      "fullName": "Luciana Mona Cachiangui",
+      "partySlug": "mpla",
+      "electoralCircle": "Benguela",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Luciana_Mona_Cachiangui/img/AsqbYHRd1odvvIVNPlmMRTWqC7PRXKuhjtx029dO.png"
+    },
+    {
+      "fullName": "Luís Filipe da Fonseca Sottomayor Pizarro",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Luisa da Conceição António Bunga Liunda",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F"
+    },
+    {
+      "fullName": "Luísa Pedro Francisco Damião Santos",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F"
+    },
+    {
+      "fullName": "Luzia Pereira de Sousa Inglês Van-Dúnem",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F"
+    },
+    {
+      "fullName": "Manuel Franessa",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuando Cubango"
+    },
+    {
+      "fullName": "Manuel Lopes Moniz Dembo",
+      "partySlug": "mpla",
+      "electoralCircle": "Bengo",
+      "mesaRole": "1.º Secretário da Mesa",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Manuel_Lopes_Moniz_Dembo/img/HSFZBd4noPHc6iItdf43Cjc8kLZFQtA5uqJQ3sCH.png"
+    },
+    {
+      "fullName": "Mara Regina da Silva Baptista Domingos Quiosa",
+      "partySlug": "mpla",
+      "electoralCircle": "Bengo",
+      "gender": "F"
+    },
+    {
+      "fullName": "Maria Ângela Teixeira de Alva Sequeira Bragança",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Ângela_Teixeira_de_Alves_Sequeira_Braganca/img/X4bLFHSFncQf9ZCD7sdTjwd6LbyV7affzyaqIiz1.png"
+    },
+    {
+      "fullName": "Maria Antonieta Josefina Sabina Baptista",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Antonieta_Josefina_Sabina_Baptista/img/0Tb8nry6DdEiJNxiSLDdmCDKtypsVcrxhAXsG1hg.png"
+    },
+    {
+      "fullName": "Maria Carolina Manuel Fiel Maria Fortes",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Carolina_Manuel_Fiel_Maria_Fortes/img/EqW4koHo9B8STycPGr4QsOIrttBOPDE2UIS3Cms9.png"
+    },
+    {
+      "fullName": "Maria da Conceição Mendonça Caldeira de Palma",
+      "partySlug": "mpla",
+      "gender": "F",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_da_Conceicao_Mendonca_Caldeira_de_Palma/img/ejQ2obtJtehRaC1qEngy6SVJs1abrzZSpj7DBS1h.png"
+    },
+    {
+      "fullName": "Maria de Lourdes Roque Caposso Fernandes",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_de_Lourdes_Roque_Caposso_Fernandes/img/QJfB86MsguU2UUi5rP2Sn7B58s8fjXOMtz6gpahB.png"
+    },
+    {
+      "fullName": "Maria Esperança Pires dos Santos",
+      "partySlug": "mpla",
+      "gender": "F",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Esperanca_Pires_dos_Santos/img/2N7zVQh1np0iulmFU6p4NHZPnZCNVDHwVjIO0ke3.png"
+    },
+    {
+      "fullName": "Maria Fonseca",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuanza-Sul",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Fonseca/img/Ge4LvA3Orz1uPY2QSu0fLwsdJN0odawdsF2zz2aD.png"
+    },
+    {
+      "fullName": "Maria Idalina de Oliveira Valente",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Idalina_de_Oliveira_Valente/img/P8nk4o7mcv9Me8Wd7Mzf0ZgdH8rWa3JRTsd2TuPB.png"
+    },
+    {
+      "fullName": "Maria Odete Sanches Tavares",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Odete_Sanches_Tavares/img/qp1U1XCi0LsMBRdSNb6bd3bsLi4gK8aVsUGDNAFU.png"
+    },
+    {
+      "fullName": "Maria Rosa Antónina Gilberta Tyipinge Escovalo",
+      "partySlug": "mpla",
+      "electoralCircle": "Huíla",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Rosa_Antonina_Gilberta_Tyipinge_Escovalo/img/4ud66o5rEr8eRIDcp4InfsrgyYmEXwGrxHVYaut5.png"
+    },
+    {
+      "fullName": "Maria Salomé Taveya",
+      "partySlug": "mpla",
+      "electoralCircle": "Cunene",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Salome_Taveya/img/R4xkKqlR7D55oKS3iE1YU5XJ5iyn3AYndWQOr42b.png"
+    },
+    {
+      "fullName": "Maricel Marinho da Silva Capama",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maricel_Marinho_da_Silva_Capama/img/e8d7MuqbAjWXBwtVgcuKNFJqhwZdeEw4Lyf5gZ5S.png"
+    },
+    {
+      "fullName": "Mário Pinto de Andrade",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Mario_Pinto_de_Andrade/img/J2yHVsT1XyOGTU9z0VNNq8fh49JEu5w9R2jBNHdI.png"
+    },
+    {
+      "fullName": "Mbamby Keane Victória dos Santos",
+      "partySlug": "mpla",
+      "electoralCircle": "Cunene",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Mbamby_Keane_Victoria_dos_Santos/img/XJsYFwn1jvtcwpoOaCvznLxqGZUbdhYs32JITn7c.png"
+    },
+    {
+      "fullName": "Milonga Manuel Bernardo",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Milonga_Manuel_Bernardo/img/rwFUq9KxvIpxV3q0LcZJBg3c00w52tJlbQeOxEIF.png"
+    },
+    {
+      "fullName": "Nádia Agostinho Borges da Conceição Monteiro",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Nadia_Agostinho_Borges_da_Conceicao_Monteiro/img/2SoRgahCfV02uBHAfIJlM71rcFWZf2UcftsyXcGP.png"
+    },
+    {
+      "fullName": "Nani Ascenção dos Santos Vontade",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Narciso Damásio dos Santos Benedito",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Narciso_Damasio_dos_Santos_Benedito/img/2SPpxX3GLffqdHnemwZfET1H8PS5WQRyAH2f7DMd.png"
+    },
+    {
+      "fullName": "Nary Cajica Manuel Aguiar",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuanza-Norte",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Nary_Cajica_Manuel_Aguiar/img/wPhHpvnQwWcHSCqJW5arqcLkciwW2lKQxg1tuV3v.png"
+    },
+    {
+      "fullName": "Nazaré dos Anjos Mendes",
+      "partySlug": "mpla",
+      "electoralCircle": "Uíge",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Nazare_dos_Anjos_Mendes/img/PYUVCaCQexk5CPvAEZagtAp2dhlmaMpR4DvvFSQ9.png"
+    },
+    {
+      "fullName": "Nazário Pedro Vilhena Bomba Vilhena",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Nazario_Pedro_Vilhena_Bomba_Vilhena/img/lC9JNysQGLjxrzYlWzxrd6gqnSvWDtKLKYpenjPJ.png"
+    },
+    {
+      "fullName": "Norberto Fernandes dos Santos",
+      "partySlug": "mpla",
+      "electoralCircle": "Malanje",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Norberto_Fernandes_dos_Santos/img/EXpBrk47t6XPWg4yEsfl9Dbe7Q4ltyqGQ0dz0JR5.png"
+    },
+    {
+      "fullName": "Nvunda Benvindo das Neves Salucombo",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Nvunda_Benvindo_Das_Neves_Salucombo/img/l2dvTNUEtczayKYLWDTf1Qm4l0Job4IWLR8uIvqR.png"
+    },
+    {
+      "fullName": "Osvaldo António José Caculo",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuanza-Norte",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Osvaldo_Antonio_Jose_Caculo/img/hDq5bClSX7jJle6TkNgl4fT29KLwwFohhDylWRqR.png"
+    },
+    {
+      "fullName": "Paciência Amélia Albertina Caxita Secuma",
+      "partySlug": "mpla",
+      "electoralCircle": "Lunda-Sul",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Paciencia_Amelia_Albertina_Caxita/img/joJlcAHkUAksR11qZYGh3OfBxPSTATc6HT3JWqwJ.png"
+    },
+    {
+      "fullName": "Paula Cristina Inácio Contreiras",
+      "partySlug": "mpla",
+      "electoralCircle": "Namibe",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Paula_Cristina_inacio_Contreiras/img/x0Vr1zow0RmjqHH3UFeirgZxaDMZtaOAR6b6Hl6s.png"
+    },
+    {
+      "fullName": "Paula Regina Simões de Oliveira",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Paula_Regina_Simoes_de_Oliveira/img/p6qAQNHmzEu2SgiNBeGhaf1FwrQLUuKqvgM3QNZr.png"
+    },
+    {
+      "fullName": "Paulo Horácio de Sequeira e Carvalho",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Paulo Pombolo",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Paulo_Pombolo/img/kER2UEADUrm1SJEIIGKo8ARXq99jdyOTMQDwRz8y.png"
+    },
+    {
+      "fullName": "Pedro Agostinho de Neri",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Pedro_Agostinho_de_Neri/img/4cev6pdUFw2PJgco0k7htsRiUXg7PJaIULqrfvIo.png"
+    },
+    {
+      "fullName": "Pedro de Morais Neto",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Pedro_de_Morais_Neto/img/v22Wfc3LLCEfyGCiDd5jQhDy2OKXV5WkU9hyNE5A.png"
+    },
+    {
+      "fullName": "Pedro Makita Armando Júlia",
+      "partySlug": "mpla",
+      "electoralCircle": "Zaire"
+    },
+    {
+      "fullName": "Pedro Sebastião",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Pedro_Sebastiao/img/DTo52EpxC9TPbEJgHGAGRFOaEjGT0ONeHaBMBnEf.png"
+    },
+    {
+      "fullName": "Raúl Augusto Lima",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "mesaRole": "3.º Vice-Presidente da Assembleia Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Raul_Augusto_Lima/img/bNSfrWHxghCmulRI9NhU8iGLr5Nugr9RxWTNwCd7.png"
+    },
+    {
+      "fullName": "Ricardina Inocência dos Santos Chilombo",
+      "partySlug": "mpla",
+      "electoralCircle": "Lunda-Sul",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Ricardina_Inocencia_dos_Santos_Chilombo/img/hhD7xHgu5vhDdEPVr8xHCrs6KIE4Shuui85lDJjE.png"
+    },
+    {
+      "fullName": "Rosa Branca da Cunha Cardoso Albino",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "mesaRole": "3.ª Secretária da Mesa",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Rosa_Branca_da_Cunha_Cardoso_Albino/img/vgfvHglVehSP9RD7jSxNPL5LexQ6a0j7TQF762cm.png"
+    },
+    {
+      "fullName": "Rosa Cacuhu",
+      "partySlug": "mpla",
+      "electoralCircle": "Cuando Cubango",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Rosa_Cacuhu/img/tfX3AyLSbO2Il9k1SD0kTr9shFH9V0foPBqaSjz4.png"
+    },
+    {
+      "fullName": "Ruth Adriano Mendes",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Ruth_Adriano_Mendes/img/FdsqTU1Hc88WuCoDYCSzSuiV3T137xT9Bb7odr9U.png"
+    },
+    {
+      "fullName": "Santiago Lino Vunge Primeiro",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Santiago_Lino_Vunge_Primeiro/img/Ujn2aHpFvbeLT7Bccg5OAkvBqj8yYTdTj6QBQCmN.png"
+    },
+    {
+      "fullName": "Sara Rodrigues Fialho da Costa",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Sara_Rodrigues_Fialho_da_Costa/img/Xv35votWJAc7gJWGH0fSlk2bEGiivpYSLtZPsWvZ.png"
+    },
+    {
+      "fullName": "Sérgio Leonardo Vaz",
+      "partySlug": "mpla",
+      "electoralCircle": "Cunene",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Sergio_Leonardo_Vaz/img/yt1SpAcxG5MGNSk8q3eryXgrmcNn7b5xmsSkTEPk.png"
+    },
+    {
+      "fullName": "Suzana Augusta de Melo",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Suzana_Augusta_de_Melo/img/eSiE7ighHIEDYvpxZKLVJg4izQsxL8I5o2FZT8rM.png"
+    },
+    {
+      "fullName": "Teresa Afonso Pinto",
+      "partySlug": "mpla",
+      "electoralCircle": "Uíge",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Teresa_Afonso_Pinto/img/50Vpn3xeV0s66Wu7YycINSC8wXyOsS2AqgaiCOdu.png"
+    },
+    {
+      "fullName": "Teresa Cholimba Mateus Mulumbila",
+      "partySlug": "mpla",
+      "electoralCircle": "Moxico",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Teresa_Cholimba_Mateus_Mulumbila/img/LixmoI2olMy9vHLQWmDtdZSpVhZC22RZL8UXmmSy.png"
+    },
+    {
+      "fullName": "Teresa de Jesus Ferreira Gonçalves",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Teresa_de_Jesus_Ferreira_Goncalves/img/EdhIRPsrvyutzEKMfegOlUskel8blIilfYBxpQxa.png"
+    },
+    {
+      "fullName": "Teresa José Adelina da Silva Neto",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Teresa_Jose_Adelina_da_Silva_Neto/img/JOsvztQVrngPkDnqkEgwov8wE4t1kfW6imIAFS4Y.png"
+    },
+    {
+      "fullName": "Victor Mário Chicua Kajibanga",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Victor_Mario_Chicua_Kajibanga/img/FZN8dHaDsHGTEyu9xC5roQzq5QCy6S0L9nvcS4c5.png"
+    },
+    {
+      "fullName": "Vigílio da Ressurreição Bernardo Adriano Tyova",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Vigilio_da_Ressurreicao_Bernardo_Adriano_Tyova/img/swgrxCDzEqiYuJwA5u5r9DVNFSQ3kzr2RoepEb6T.png"
+    },
+    {
+      "fullName": "Virgílio Ferreira de Fontes Pereira",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Virgilio_Ferreira_de_Fontes_Pereira/img/Z9IAuKP66B5Tgcq6okPfuBzpK5qT69xr8lGJLVGk.png"
+    },
+    {
+      "fullName": "Yolanda Brígida Domingos de Sousa Gaspar",
+      "partySlug": "mpla",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Yolanda_Brigida_Domingos_de_Sousa_Gaspar/img/FjGsveOXDoGqQk2TQVGa4oJbppu07jpKF1drjwnJ.png"
+    },
+    {
+      "fullName": "Adalberto Costa Júnior",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Adalberto_Costa_Junior/img/fKtusaBGyRqIEZgzvxDMDaioH80u7Jlb4qXsWs2B.png"
+    },
+    {
+      "fullName": "Adriano Abel Sapinãla",
+      "partySlug": "unita",
+      "electoralCircle": "Benguela",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Adriano_Abel_Sapinala/img/lPF8ync7m3zndI0HjEOvwURzv4zRXKOREZ03AsWQ.png"
+    },
+    {
+      "fullName": "Albertina Navemba Ngolo Felisberto",
+      "partySlug": "unita",
+      "electoralCircle": "Huambo",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Albertina_Navemba_Ngolo_Felisberto/img/hqcQcImEzlRCl9dXcd3yoDpFL30CyblR5ocrznxC.png"
+    },
+    {
+      "fullName": "Alcides Sakala Simões",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Alcino Jonas Kuvalela",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Alcino_Jonas_Kuvalela/img/9mrJfQkb1X9K1BMj0MBIcJE9TbI6deVoZnuPRcGJ.png"
+    },
+    {
+      "fullName": "Álvaro Chikwamanga Daniel",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Alvaro_Chikwamanga_Daniel/img/e5mSpjPHaHQU6S99xnCZFksSc8XPqewu42HDK07I.png"
+    },
+    {
+      "fullName": "Amélia Judith Ernesto",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "mesaRole": "2.ª Secretária da Mesa",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Amelia_Judith_Ernesto/img/5Jng2ldcFBEjbZT3M2vYx62mkuJIZ1h8WH4ZTcdE.png"
+    },
+    {
+      "fullName": "Américo Carlos Wongo Samoma",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Americo_Carlos_Wongo_Samoma/img/6W4rSqR8Elarw9jj4tBxX6eGXzUeVIBvjhvsJq7K.png"
+    },
+    {
+      "fullName": "Anabela Valentina Sapalalo",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Anabela_Valentina_Sapalalo/img/BnaMa69ElRgaczlrdUE6obWRU8rIzIfdsfmJf2Zd.png"
+    },
+    {
+      "fullName": "Anastácio Rúben Sicato",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "António Kalandula Bândua",
+      "partySlug": "unita",
+      "electoralCircle": "Zaire",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Antonio_Kalandula_Bandua/img/gOZbSUMi0PWCywC9yApfZbezsr1FGyKBcgA01rRw.png"
+    },
+    {
+      "fullName": "António Saúde Cabina",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Apolo Pedro Felino Yakuvela",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Ariane Rebeca Lusadisu Nhany",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Ariane_Rebeca_Lusadisu_Nhany/img/7nLh10Ns1bEMnscVfMHaU2cbk19GW55AHb8WuFr8.png"
+    },
+    {
+      "fullName": "Arlete Leona Chimbinda",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "mesaRole": "2.ª Vice-Presidente da Assembleia Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Arlete_Leona_Chimbinda/img/SidRJe4xXt1Q6qCRyjpGMXlPk2IIGByCRUNtmRkA.png"
+    },
+    {
+      "fullName": "Arlindo Luemba Miranda",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Armando Manuel Caquepa",
+      "partySlug": "unita",
+      "electoralCircle": "Cuanza-Sul",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Armando_Manuel_Caquepa/img/GSyNkWw7VoxgRgy7IR8BLmpTrV5DfQGum7XX3gv8.png"
+    },
+    {
+      "fullName": "Augusto Samuel",
+      "partySlug": "unita",
+      "electoralCircle": "Huíla",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Augusto_Samuel/img/IcP1cpCQiGQh6RG2xhVKqy70S1Tb6o7kK9hpj0SP.png"
+    },
+    {
+      "fullName": "Avelino Canjamba José",
+      "partySlug": "unita",
+      "electoralCircle": "Benguela",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Avelino_Canjamba_Jose/img/fAYrBxvlmstDwxcVVCIiwJBiRnL6Nt13P5Ahr4He.png"
+    },
+    {
+      "fullName": "Celso Eduardo Torres Capingãla",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Celso_Eduardo_Torres_Capingala/img/KHmrrjUXdtcFQtD5I6bd6JAmMYr9nsjyKuNttdUP.png"
+    },
+    {
+      "fullName": "Cicília de Sousa Portalegre de Barros",
+      "partySlug": "unita",
+      "electoralCircle": "Cuanza-Norte"
+    },
+    {
+      "fullName": "Clarice Mukinda",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Clarice_Mukinda/img/NwGBg20hh296lh6fOwhyNQRWwtt7v6BYNyfFYSzC.png"
+    },
+    {
+      "fullName": "Clarisse Matilde Munga Kaputu",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Clarisse_Matilde_Munga_Kaputu/img/C5y5lFTz32U5HP4fm1JtnNccX6W7r5NbmsRrJMTX.png"
+    },
+    {
+      "fullName": "Clementina José da Silva",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Clementina_Jose_Da_Silva/img/5JTIPZyNvCWYaIdqcN0t5uqR5Cdnm88moELgRSee.png"
+    },
+    {
+      "fullName": "Conceição João Faria Paulo",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Conceicao_Joao_Faria_Paulo/img/IHblV1gWrl6IRebZJktxqm5rXraPxkswYfudngbn.png"
+    },
+    {
+      "fullName": "Custódio Agostinho Kamuango Lopes",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Custodio_Agostinho_Kamuango_Lopes/img/spfphGUp8rMovlWw5M4Zdd0huv8QmDwP1318k5Vc.png"
+    },
+    {
+      "fullName": "David Álvaro",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/David_Alvaro/img/zJBW2kgQrN3hUeoRYInJCoAjq3BCq7CnOSk00roR.png"
+    },
+    {
+      "fullName": "David Kisadila",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/David_Kisadila/img/x8ydSoGbCiVhr4kAXmcbp2xVUlTKvhhfxpTXzVvE.png"
+    },
+    {
+      "fullName": "Domingos Eduardo Palanga",
+      "partySlug": "unita",
+      "electoralCircle": "Luanda",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Domingos_Eduardo_Palanga/img/r0JgQ2VtQRqslSe8Ozbu5YgrVAfkrYklcjZUmBkm.png"
+    },
+    {
+      "fullName": "Domingos Oliveira",
+      "partySlug": "unita",
+      "electoralCircle": "Lunda-Norte",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Domingos_Oliveira/img/HOaepImzJ9oDymoXrsHZPNdaONOKRj8aTkrRO7pl.png"
+    },
+    {
+      "fullName": "Eduardo Dumbo Delfino",
+      "partySlug": "unita",
+      "electoralCircle": "Huambo",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Eduardo_Dumbo_Delfino/img/R0qgFWzpUhQVp5mVTiQGWrcJPAALfLaeJd7XIJ8m.png"
+    },
+    {
+      "fullName": "Ernesto da Costa Kassongo",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "mesaRole": "4.º Secretário da Mesa",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Ernesto_Da_Costa_Kassongo/img/hSIjmcJSr1sQ4rsk1OGSZyVfkoYBW9OhYbuklGfk.png"
+    },
+    {
+      "fullName": "Estevão Neto Pedro",
+      "partySlug": "unita",
+      "electoralCircle": "Cabinda",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Estevao_Neto_Pedro/img/V1OAPaEweDZFaMhmw6xSPuHWNAbOIL2l9OaHE5jK.png"
+    },
+    {
+      "fullName": "Esteves António Diavova",
+      "partySlug": "unita",
+      "electoralCircle": "Uíge",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Esteves_Antonio_Diavova/img/HOA5yMGYQnWa2GQPCcmFdGBQpjO81Bm3kzKp5Fhr.png"
+    },
+    {
+      "fullName": "Eugénio Antonino Ngolo",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Eugenio_Antonino_Ngolo/img/6Qk7Spi2u66MX0gKhVS7EQ03N3TQoex0KcchsY3E.png"
+    },
+    {
+      "fullName": "Faustino Morais António Manuel",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Faustino_Morais_Antonio_Manuel/img/auhdV81B1Te3F90gyod5mjbyjmIYtYhWqZEm3cJc.png"
+    },
+    {
+      "fullName": "Félix Simão Lucas",
+      "partySlug": "unita",
+      "electoralCircle": "Uíge",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Felix_Simao_Lucas/img/0IYABWYp9YEevRjhomZNoHLeo1AsBYGoyrMGfuYE.png"
+    },
+    {
+      "fullName": "Fernanda Lurdes Nguissi",
+      "partySlug": "unita",
+      "electoralCircle": "Cuanza-Norte",
+      "gender": "F"
+    },
+    {
+      "fullName": "Fernando Domingos Pedro Muanza",
+      "partySlug": "unita",
+      "electoralCircle": "Lunda-Norte",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Fernando_Domingos_Pedro_Muanza/img/6b4a83UVoA3hBIh4sjF6e36bjZI2X1cxNw2xeo8T.png"
+    },
+    {
+      "fullName": "Francisco Fernandes",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Francisco_Fernandes/img/bjOBgTc2MpKhVM0p5FHbKupEHtNoo6VTpYSxALUi.png"
+    },
+    {
+      "fullName": "Francisco Gaio Kakoma Antónino",
+      "partySlug": "unita",
+      "electoralCircle": "Cuando Cubango",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Francisco_Gaio_Kakoma_Antonino/img/sRap67aKh02sOwWrkBBuIlzyKClBYIAmsUCdb9TN.png"
+    },
+    {
+      "fullName": "Francisco Vicente Gimarães Ferreira Viana",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Franco Meneses Marcolino Nhani",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Gervásio Nombo Zau",
+      "partySlug": "unita",
+      "electoralCircle": "Cabinda",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Gervasio_Nombo_Zau/img/WxBTsMbw0SSNuI6OJftw8o4v3tpIHMKvVi8S0QLy.png"
+    },
+    {
+      "fullName": "Helena Bonguela Abel",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Helena_Bonguela_Abel/img/hhRxxzxyx7F04W0fY0Z3IxG0BsZIdowcPsbS0iuZ.png"
+    },
+    {
+      "fullName": "Irina de Almeida Santos Diniz Ferreira",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Irina_De_Almeida_Santos_Diniz_Ferreira/img/2G0OxLpVxJfaKFsCWHuzGXZRfbMO3la06OsA5K8F.png"
+    },
+    {
+      "fullName": "Januário Alfredo Mussambo",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Jeremias Ernesto Barbosa Mahula",
+      "partySlug": "unita",
+      "electoralCircle": "Luanda",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Jeremias_Ernesto_Barbosa_Mahula/img/xwF3SLQIuDBFEUcv6t6FGWIFyGuUeTfWU6uYVaoa.png"
+    },
+    {
+      "fullName": "Jeremias Kaunda Abílio",
+      "partySlug": "unita",
+      "electoralCircle": "Bié",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Jeremias_Kaunda_Abilio/img/HvcqHl5M36z05jOHpKtK7Ce2Ti2Vcjk8BEAKTP9I.png"
+    },
+    {
+      "fullName": "João Baptista Vindes",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "João Kanda Bernardo",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joao_Kanda_Bernardo/img/Gs4I6WOOOGWXOLsapZ8pwj6VKlpAeylcZwzl7lHm.png"
+    },
+    {
+      "fullName": "João Manuel",
+      "partySlug": "unita",
+      "electoralCircle": "Cabinda",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joao_Manuel/img/wISODflga4kAUgQPeASFvQfpGpn39kMqWGaNw9kp.png"
+    },
+    {
+      "fullName": "João Miguel Vahekeni",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joao_Miguel_Vahekeni/img/gLVgZdomOAWPz8FpU0qXuTBb1IKnHFYa0BftUU1W.png"
+    },
+    {
+      "fullName": "João Muzaza Caweza",
+      "partySlug": "unita",
+      "electoralCircle": "Moxico",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joao_Muzaza_Caweza/img/sO4Uo2aO2fiEPgNk0KxMjm1GT5xh61Tt4KZQ5kxB.png"
+    },
+    {
+      "fullName": "Joaquim Nafoia",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joaquim_Nafoia/img/pHUQMaYr7W1fbxNjqo8LaA6yH0N9ZZNdvlTxy7Sk.png"
+    },
+    {
+      "fullName": "Joel Armando Kafuka Pacheco",
+      "partySlug": "unita",
+      "electoralCircle": "Bengo",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Joel_Armando_Kafuka_Pacheco/img/SRIJle6kJj0Rf3ZQZBW63QWDP5VM1QiiweL9rBT7.png"
+    },
+    {
+      "fullName": "Jorge Martins da Cruz",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Jorge_Martins_Da_Cruz/img/MFdL23OGkbXubskJbFayjMN7ND28UWV1YY5S6Py4.png"
+    },
+    {
+      "fullName": "Jorge Vitorino",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Jorge_Vitorino/img/qXu2Pb7AG15IDKY2f53TrPzWGE4A2M06bvGEXutx.png"
+    },
+    {
+      "fullName": "José do Gringo Júnior Lembe",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Jose_do_Gringo_Junior_Lembe/img/j6NOQaDGfIi4VBs7h4sRS0Iorgs6M6VcPVH46ydM.png"
+    },
+    {
+      "fullName": "Justino Feltro da Costa Pinto de Andrade",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "mesaRole": "4.º Vice-Presidente da Assembleia Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Justino_Feltro_da_Costa_Pinto_de_Andrade/img/AgwxBSkaKWAy5DeejbhZ4K6RQ9GtmsgE6HM8Ghjv.png"
+    },
+    {
+      "fullName": "Lázaro de Oliveira Guelson Kakunha",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Lazaro_De_Oliveira_Guelson_Kakunha/img/t8PsljQg7K2TypQAXJHJsZJ9OTagnq4Oo0S5BbBb.png"
+    },
+    {
+      "fullName": "Liberty Marlin Dircéu Samuel Chiaca",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Lourenço Alberto Chungo Lumingo",
+      "partySlug": "unita",
+      "electoralCircle": "Cabinda",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Lourenco_Alberto_Chungo_Lumingo/img/ozItTyByZEADQXpB0OSHtsPEWdkHp9YR8LKwYB0y.png"
+    },
+    {
+      "fullName": "Luís Fernandes do Nascimento",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Luis_Fernandes_Do_Nascimento/img/7urk1IIqjEI8JTAeO1OfuCebJCMCXC2S8M4Q44ST.png"
+    },
+    {
+      "fullName": "Manuel Armando da Costa Ekuikui",
+      "partySlug": "unita",
+      "electoralCircle": "Luanda",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Manuel_Armando_da_Costa_Ekuikui/img/5KRN70RhxuBTc0KdLVUypdghmJYVsEmmLk1TbUem.png"
+    },
+    {
+      "fullName": "Manuel Domingos da Fonseca",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Manuel_Domingos_Da_Fonseca/img/G2pwWRTWPkGj3v2Sj7lnXwGFhHB9tCV7xFQ8e6FI.png"
+    },
+    {
+      "fullName": "Manuel Mbalu",
+      "partySlug": "unita",
+      "electoralCircle": "Zaire",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Manuel_Mbalu/img/6CMkjJ0g9pfx8julKQXCkfpQYcTWEop4ATUnGc1U.png"
+    },
+    {
+      "fullName": "Manuel Sampaio Mucanda",
+      "partySlug": "unita",
+      "electoralCircle": "Namibe",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Manuel_Sampaio_Mucanda/img/aIWlGne2uwwrz4PRlLtqvlv37lE9gFxqpVuhVjRy.png"
+    },
+    {
+      "fullName": "Marcial Adriano Dachala",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Marcial_Adriano_Dachala/img/wTt5td3fBLYNlL5v9LkL9RR2tCQaaNdB0lTuOi4w.png"
+    },
+    {
+      "fullName": "Mardanês Agostinho Calunga",
+      "partySlug": "unita",
+      "electoralCircle": "Malanje",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Mardanes_Agostinho_Calunga/img/CPM9KBib892jNiUZIl2pGjG9apuaCYRHYUjx44Dw.png"
+    },
+    {
+      "fullName": "Maria do Espírito Santo da Silva Monteiro",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Do_Espirito_Santo_Da_Silva_Monteiro/img/A25VcJbQB341D3IAvfGMBh75BST9FsW2VqULYFs9.png"
+    },
+    {
+      "fullName": "Maria Emília da Silva Inácio",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Maria_Emilia_Da_Silva_Inacio/img/YcKMEeUQBtvrn0xfU0Qb3PwKE6KWyV7SjcxeVtiI.png"
+    },
+    {
+      "fullName": "Maurílio Luciano Sabino Luiele",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Mihaela Ezsébet Neto Webba Kopumi",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Mihaela_Ezsebet_Neto_Webba_Kopumi/img/Mb13UyF3iQDLXmgCh37GxYdOfLe16xAz3oOJCcOe.png"
+    },
+    {
+      "fullName": "Moniz Alfredo",
+      "partySlug": "unita",
+      "electoralCircle": "Bengo"
+    },
+    {
+      "fullName": "Nuno Álvaro Dala",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Olívio Fortunato Esperança Quilumbo",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional"
+    },
+    {
+      "fullName": "Pedro Francisco Tanda",
+      "partySlug": "unita",
+      "electoralCircle": "Zaire",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Pedro_Francisco_Tanda/img/wAkLo63yGB0Rg0R2LCMCbZfUB4qx51tXJnZL1BMK.png"
+    },
+    {
+      "fullName": "Peregrino Isidro Wambu Chindondo",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Peregrino_Isidro_Wambu_Chindondo/img/uDZkGOMtQuMJIxZUXJLjY6f4fWRRGFLP8vnvLfwz.png"
+    },
+    {
+      "fullName": "Piedoso Chipindo Bonga",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Piedoso_Chipindo_Bonga/img/8rgi8L7XgjIljfQ0pk7Ffk4kwrhUvPyUMiiFYwfF.png"
+    },
+    {
+      "fullName": "Rafael Massanga Sakaita Savimbi",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Rafael_Massanga_Sakaita_Savimbi/img/nXK8PfpVWrIxMWQeSHU7beXo46I4ZI6WFMWWYhPp.png"
+    },
+    {
+      "fullName": "Rita Mateus Júnior",
+      "partySlug": "unita",
+      "electoralCircle": "Malanje",
+      "gender": "F"
+    },
+    {
+      "fullName": "Rodrigues Manuel Tandala",
+      "partySlug": "unita",
+      "electoralCircle": "Bié",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Rodrigues_Manuel_Tandala/img/WwYOOhQROvmGvEPA1hjiLYtZq9N5iRUYmmdCzkfe.png"
+    },
+    {
+      "fullName": "Sandra Teresa Numanawa Kakunda Henriques",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Sandra_Teresa_Numanawa_Kakunda_Henriques/img/JSRhUq0w9W5y8d1eh8x5mOQDBuhq7DYvWb9b1QSk.png"
+    },
+    {
+      "fullName": "Saúde Victorino Luenheca Txizau",
+      "partySlug": "unita",
+      "electoralCircle": "Lunda-Sul",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Saude_Victorino_Luenheca_Txizau/img/605VpN8eULJ1KaqIHOA6Ru9ofbZExcVLgVDbCetY.png"
+    },
+    {
+      "fullName": "Sofia Porfírio Kasungu Mussonguela",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "gender": "F"
+    },
+    {
+      "fullName": "Silvestre Gabriel Samy",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Silvestre_Gabriel_Samy/img/tgjB2SAj9zNWrWIKw3X6kScPY6nf3keqGTYtoNIH.png"
+    },
+    {
+      "fullName": "Simão Albino António Dembo",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Simao_Albino_Antonio_Dembo/img/96ISdSKpM6t8r8f2wTOCQJgShYniMgZCiEbDZlRA.png"
+    },
+    {
+      "fullName": "Vasco Manuel Sangongo",
+      "partySlug": "unita",
+      "electoralCircle": "Lunda-Sul",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Vasco_Manuel_Sangongo/img/VaX7qxZdMVQOh99bytCm68FUMOrlwFmKlRsGXE9L.png"
+    },
+    {
+      "fullName": "Virgílio Pedro Samussongo",
+      "partySlug": "unita",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Virgilio_Pedro_Samussongo/img/GtL3tkheS68jCTMrH5tgKoFqHAXklYQrlxtSznmW.png"
+    },
+    {
+      "fullName": "Benedito Daniel",
+      "partySlug": "prs",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Benedito_Daniel/img/n0J02CPzIJGbz1bSPMKsqnT9nng0LBvcXMYf4QOT.png"
+    },
+    {
+      "fullName": "Rui Malopa Miguel",
+      "partySlug": "prs",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Rui_Malopa_Miguel/img/Ia4vhA8uDuhZ7WTfUCJ0trb5LXt9RzBA7IyHTfDe.png"
+    },
+    {
+      "fullName": "Benjamim Manuel da Silva",
+      "partySlug": "fnla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Benjamim_Manuel_da_Silva/img/Xusi8oeLddX7XIuVF8bD1Dfwyjukz8gWo5mErefY.png"
+    },
+    {
+      "fullName": "Nimi A simbi",
+      "partySlug": "fnla",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Nimi_A_simbi/img/vEMzMCVmLE5TKqrf83dv3X0tkrmTVxLmKqX4w0wX.png"
+    },
+    {
+      "fullName": "Fernando Hombo Dinis",
+      "partySlug": "pha",
+      "electoralCircle": "Nacional",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Fernando_Hombo_Dinis/img/5DUCm5ubcJJCLMwAo2XQsGNzoATr1tGa7Aoj87NU.png"
+    },
+    {
+      "fullName": "Florbela Catarina Malaquias",
+      "partySlug": "pha",
+      "electoralCircle": "Nacional",
+      "gender": "F",
+      "photoUrl": "https://portaladmin.parlamento.ao/storage/Florbela_Catarina_Malaquias/img/G9Y7JciVvve1xlONeXsUGSnP5YlIOgHceqH2l19Y.png"
+    }
+  ]
+}

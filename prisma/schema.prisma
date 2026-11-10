@@ -1,0 +1,183 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Party {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  name        String
+  fullName    String
+  seats       Int
+  color       String
+  kind        String // grupo | representacao
+  sortOrder   Int
+  logoUrl     String?
+  deputies    Deputy[]
+  positions   VotePosition[]
+  proposals   Proposal[] @relation("ProposalAuthor")
+}
+
+model Deputy {
+  id              String   @id @default(cuid())
+  slug            String   @unique
+  fullName        String
+  partyId         String
+  party           Party    @relation(fields: [partyId], references: [id])
+  electoralCircle String?
+  inOffice        Boolean  @default(true)
+  mesaRole        String?
+  gender          String? // F | M | null
+  photoUrl        String?
+  committees      CommitteeMembership[]
+}
+
+model Committee {
+  id           String   @id @default(cuid())
+  slug         String   @unique
+  name         String
+  memberships  CommitteeMembership[]
+}
+
+model CommitteeMembership {
+  id          String    @id @default(cuid())
+  deputyId    String
+  committeeId String
+  role        String    @default("membro")
+  deputy      Deputy    @relation(fields: [deputyId], references: [id])
+  committee   Committee @relation(fields: [committeeId], references: [id])
+
+  @@unique([deputyId, committeeId])
+}
+
+model Theme {
+  id        String   @id @default(cuid())
+  slug      String   @unique
+  name      String
+  proposals ProposalTheme[]
+}
+
+model Proposal {
+  id            String   @id @default(cuid())
+  slug          String   @unique
+  officialTitle String
+  plainTitle    String
+  plainSummary  String?
+  status        String
+  authorPartyId String?
+  authorParty   Party?   @relation("ProposalAuthor", fields: [authorPartyId], references: [id])
+  authorLabel   String?
+  sourceUrl     String
+  sourceLabel   String
+  themes        ProposalTheme[]
+  votes         Vote[]
+  createdAt     DateTime @default(now())
+}
+
+model ProposalTheme {
+  proposalId String
+  themeId    String
+  proposal   Proposal @relation(fields: [proposalId], references: [id])
+  theme      Theme    @relation(fields: [themeId], references: [id])
+
+  @@id([proposalId, themeId])
+}
+
+model Vote {
+  id         String   @id @default(cuid())
+  proposalId String
+  proposal   Proposal @relation(fields: [proposalId], references: [id])
+  date       DateTime
+  stage      String
+  votesFor   Int
+  votesAgainst Int
+  abstentions Int
+  result     String // aprovada | rejeitada
+  sourceUrl  String
+  sourceLabel String
+  positions  VotePosition[]
+}
+
+model VotePosition {
+  id      String @id @default(cuid())
+  voteId  String
+  partyId String
+  stance  String // a_favor | contra | abstencao | desconhecido
+  vote    Vote   @relation(fields: [voteId], references: [id])
+  party   Party  @relation(fields: [partyId], references: [id])
+
+  @@unique([voteId, partyId])
+}
+
+model AgendaItem {
+  id          String   @id @default(cuid())
+  date        DateTime
+  title       String
+  description String?
+  sourceUrl   String?
+  sourceLabel String?
+}
+
+model GlossaryTerm {
+  id         String @id @default(cuid())
+  slug       String @unique
+  term       String
+  definition String
+}
+
+/// Documento oficial descoberto/arquivado pelo pipeline de ingestão.
+model SourceDocument {
+  id           String   @id @default(cuid())
+  url          String   @unique
+  title        String?
+  kind         String // noticia | dan_i | dan_ii | pdf | pagina
+  publishedAt  DateTime?
+  fetchedAt    DateTime?
+  contentHash  String?
+  localPath    String?
+  mimeType     String?
+  textExtract  String?
+  status       String   @default("discovered") // discovered | fetched | parsed | failed
+  parseError   String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  extractions  VoteExtraction[]
+}
+
+/// Candidato a votação extraído automaticamente de um documento.
+model VoteExtraction {
+  id           String   @id @default(cuid())
+  documentId   String
+  document     SourceDocument @relation(fields: [documentId], references: [id], onDelete: Cascade)
+  title        String
+  plainTitle   String?
+  date         DateTime?
+  stage        String?
+  votesFor     Int?
+  votesAgainst Int?
+  abstentions  Int?
+  result       String? // aprovada | rejeitada | null
+  confidence   Float    @default(0)
+  status       String   @default("needs_review") // needs_review | published | rejected
+  rawSnippet   String?
+  proposalId   String?
+  voteId       String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  @@index([status])
+  @@index([documentId])
+}
+
+model IngestRun {
+  id         String   @id @default(cuid())
+  startedAt  DateTime @default(now())
+  finishedAt DateTime?
+  ok         Boolean  @default(false)
+  statsJson  String?
+  error      String?
+}

@@ -1,0 +1,46 @@
+(async () => {
+  const names = ["Adão Francisco Correia de Almeida", "Adriano Meireles Patrocínio", "Aia-Eza Nacília Gomes da Silva Troso", "Alcides Severino Mbole Maiacala", "Álvaro Manuel de Boavida Neto", "Amélia de Jesus Alberto Camunheira Pinto", "Amélia Lave Dias Manuel", "Américo António Cuononoca", "Ana António Maria José", "Ana da Purificação Lara de Abreu Pires Delgado", "Ana Maria Cordeiro Alves João", "Anabela Caiovo Gunga", "Anastácio Severino Sambowe", "Anilda Mariana Chivucuvucu", "António Domingos Pitra Costa Neto", "António Rodrigues Afonso Paulo", "Arlete da Visitação Francisco e Castro Borges", "Armando Capunda", "Arsénio Orlando Satyohamba", "Bento Joaquim Sebastião Francisco Bento", "Bernardete de Lassalete Gourgel da Silva Santana", "Carla Maria Leitão Ribeiro de Sousa", "Deolinda Tchocondoca Valiangula", "Djamila Huguette da Silva de Almeida", "Dolina Nassocópia Miguel Tchinhama", "Edna Beneque Queximalunga da Costa", "Elisa Solanje de Almeida Paxe", "Elisandra Mônica Rodrigues Coelho", "Elizandra Janete Gourgel Wassuca", "Emília Carlota Sebastião Celestino Dias", "Emília da Conceição Panjimba Paulo", "Emília Cambundo Tchinawalile António Salles Camuhôto", "Esperança Luzia Jackson Pembele da Conceição", "Esteves Carlos Hilário", "Eva Gonçalves da Costa", "Felino Job", "Felizmina Maria Valentim Lutucuta de Sousa", "Fernanda Deolinda Sumbo Guerra", "Fernanda Filomena dos Santos", "Gilberto Manuel Pereira", "Gonçalves Manuel Muandumba", "Helena Berta Buca Vando Marciano", "Hemingarda João Fernandes", "Ilda de Fátima da Silva Almeida Martins", "Ireno Nauta Domingos Nambalo", "Isolina Teresa Pinto", "João António Lineha Muhembo", "João de Almeida Azevedo Martins", "João José Guerra de Freitas", "João Mpilamosi Domingos", "João Segunda Ungaji", "Joaquim António Carlos dos Reis Júnior", "Joaquim Frederico D'Almeida", "Joaquim José Miguéis", "Job Pedro Castelo Capapinha", "Jorge Inocêncio Dombolo", "Jorge Ribeiro Uefu", "José António Lopes Semedo", "José Artur Carmo Manuel", "José Miúdo Ndambuca", "Julieta Carlos Baptista Vicente", "Kilamba Kiuyma Sebastião Van-Dúnem", "Leonor da Silva Ferreira Garibaldi de Lima e Cruz", "Lizete da Conceição Manuel Gonga", "Lotti Nolika", "Lúcia Yoleni Sincopela", "Luciana Mona Cachiangui", "Luís Filipe da Fonseca Sottomayor Pizarro", "Luisa da Conceição António Bunga Liunda", "Luísa Pedro Francisco Damião Santos", "Luzia Pereira de Sousa Inglês Van-Dúnem", "Manuel Franessa", "Manuel Lopes Moniz Dembo", "Mara Regina da Silva Baptista Domingos Quiosa", "Maria Ângela Teixeira de Alva Sequeira Bragança", "Maria Antonieta Josefina Sabina Baptista", "Maria Carolina Manuel Fiel Maria Fortes", "Maria da Conceição Mendonça Caldeira de Palma", "Maria de Lourdes Roque Caposso Fernandes", "Maria Esperança Pires dos Santos", "Maria Fonseca", "Maria Idalina de Oliveira Valente", "Maria Odete Sanches Tavares", "Maria Rosa Antónina Gilberta Tyipinge Escovalo", "Maria Salomé Taveya", "Maricel Marinho da Silva Capama", "Mário Pinto de Andrade", "Mbamby Keane Victória dos Santos", "Milonga Manuel Bernardo", "Nádia Agostinho Borges da Conceição Monteiro", "Nani Ascenção dos Santos Vontade", "Narciso Damásio dos Santos Benedito", "Nary Cajica Manuel Aguiar", "Nazaré dos Anjos Mendes", "Nazário Pedro Vilhena Bomba Vilhena", "Norberto Fernandes dos Santos", "Nvunda Benvindo das Neves Salucombo", "Osvaldo António José Caculo", "Paciência Amélia Albertina Caxita Secuma", "Paula Cristina Inácio Contreiras", "Paula Regina Simões de Oliveira", "Paulo Horácio de Sequeira e Carvalho", "Paulo Pombolo", "Pedro Agostinho de Neri", "Pedro de Morais Neto", "Pedro Makita Armando Júlia", "Pedro Sebastião", "Raúl Augusto Lima", "Ricardina Inocência dos Santos Chilombo", "Rosa Branca da Cunha Cardoso Albino", "Rosa Cacuhu", "Ruth Adriano Mendes", "Santiago Lino Vunge Primeiro", "Sara Rodrigues Fialho da Costa", "Sérgio Leonardo Vaz", "Suzana Augusta de Melo", "Teresa Afonso Pinto", "Teresa Cholimba Mateus Mulumbila", "Teresa de Jesus Ferreira Gonçalves", "Teresa José Adelina da Silva Neto", "Victor Mário Chicua Kajibanga", "Vigílio da Ressurreição Bernardo Adriano Tyova", "Virgílio Ferreira de Fontes Pereira", "Yolanda Brígida Domingos de Sousa Gaspar", "Adalberto Costa Júnior", "Adriano Abel Sapinãla", "Albertina Navemba Ngolo Felisberto", "Alcides Sakala Simões", "Alcino Jonas Kuvalela", "Álvaro Chikwamanga Daniel", "Amélia Judith Ernesto", "Américo Carlos Wongo Samoma", "Anabela Valentina Sapalalo", "Anastácio Rúben Sicato", "António Kalandula Bândua", "António Saúde Cabina", "Apolo Pedro Felino Yakuvela", "Ariane Rebeca Lusadisu Nhany", "Arlete Leona Chimbinda", "Arlindo Luemba Miranda", "Armando Manuel Caquepa", "Augusto Samuel", "Avelino Canjamba José", "Celso Eduardo Torres Capingãla", "Cicília de Sousa Portalegre de Barros", "Clarice Mukinda", "Clarisse Matilde Munga Kaputu", "Clementina José da Silva", "Conceição João Faria Paulo", "Custódio Agostinho Kamuango Lopes", "David Álvaro", "David Kisadila", "Domingos Eduardo Palanga", "Domingos Oliveira", "Eduardo Dumbo Delfino", "Ernesto da Costa Kassongo", "Estevão Neto Pedro", "Esteves António Diavova", "Eugénio Antonino Ngolo", "Faustino Morais António Manuel", "Félix Simão Lucas", "Fernanda Lurdes Nguissi", "Fernando Domingos Pedro Muanza", "Francisco Fernandes", "Francisco Gaio Kakoma Antónino", "Francisco Vicente Gimarães Ferreira Viana", "Franco Meneses Marcolino Nhani", "Gervásio Nombo Zau", "Helena Bonguela Abel", "Irina de Almeida Santos Diniz Ferreira", "Januário Alfredo Mussambo", "Jeremias Ernesto Barbosa Mahula", "Jeremias Kaunda Abílio", "João Baptista Vindes", "João Kanda Bernardo", "João Manuel", "João Miguel Vahekeni", "João Muzaza Caweza", "Joaquim Nafoia", "Joel Armando Kafuka Pacheco", "Jorge Martins da Cruz", "Jorge Vitorino", "José do Gringo Júnior Lembe", "Justino Feltro da Costa Pinto de Andrade", "Lázaro de Oliveira Guelson Kakunha", "Liberty Marlin Dircéu Samuel Chiaca", "Lourenço Alberto Chungo Lumingo", "Luís Fernandes do Nascimento", "Manuel Armando da Costa Ekuikui", "Manuel Domingos da Fonseca", "Manuel Mbalu", "Manuel Sampaio Mucanda", "Marcial Adriano Dachala", "Mardanês Agostinho Calunga", "Maria do Espírito Santo da Silva Monteiro", "Maria Emília da Silva Inácio", "Maurílio Luciano Sabino Luiele", "Mihaela Ezsébet Neto Webba Kopumi", "Moniz Alfredo", "Nuno Álvaro Dala", "Olívio Fortunato Esperança Quilumbo", "Pedro Francisco Tanda", "Peregrino Isidro Wambu Chindondo", "Piedoso Chipindo Bonga", "Rafael Massanga Sakaita Savimbi", "Rita Mateus Júnior", "Rodrigues Manuel Tandala", "Sandra Teresa Numanawa Kakunda Henriques", "Saúde Victorino Luenheca Txizau", "Sofia Porfírio Kasungu Mussonguela", "Silvestre Gabriel Samy", "Simão Albino António Dembo", "Vasco Manuel Sangongo", "Virgílio Pedro Samussongo", "Benedito Daniel", "Rui Malopa Miguel", "Benjamim Manuel da Silva", "Nimi A simbi", "Fernando Hombo Dinis", "Florbela Catarina Malaquias"];
+  function variants(fullName) {
+    const base = fullName.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[''`]/g,'').replace(/-/g,'_').replace(/\s+/g,'_').replace(/_+/g,'_').replace(/^_|_$/g,'');
+    const parts = base.split('_');
+    const set = new Set();
+    set.add(base + '_');
+    // drop last token (sometimes site truncates)
+    if (parts.length > 3) set.add(parts.slice(0,-1).join('_') + '_');
+    // da__X variants
+    set.add(base.replace(/_da_([A-Z])/g, '_da__$1') + '_');
+    set.add(base.replace(/_(da|de|do|dos|das)_([A-Z])/g, '_$1__$2') + '_');
+    return [...set];
+  }
+  const photos = [];
+  const missing = [];
+  const concurrency = 6;
+  let i = 0;
+  async function worker() {
+    while (i < names.length) {
+      const idx = i++;
+      const name = names[idx];
+      let found = null;
+      for (const s of variants(name)) {
+        try {
+          const json = await (await fetch('https://portaladmin.parlamento.ao/api/info/' + encodeURIComponent(s))).json();
+          const img = json?.data?.entity?.imgCapa;
+          if (img) {
+            found = {
+              fullName: name,
+              entitySlug: s,
+              photoUrl: 'https://portaladmin.parlamento.ao/storage/' + img.replace(/^\/+/, ''),
+              apiName: json.data.entity.keyMenu || null
+            };
+            break;
+          }
+        } catch (e) {}
+      }
+      if (found) photos.push(found); else missing.push(name);
+      if ((idx+1) % 20 === 0) console.log('progress', idx+1, photos.length, missing.length);
+    }
+  }
+  await Promise.all(Array.from({length: concurrency}, () => worker()));
+  window.__votoaoPhotos = { photos, missing, fetchedAt: new Date().toISOString() };
+  return JSON.stringify({ found: photos.length, missing: missing.length, sample: photos.slice(0,3) });
+})()

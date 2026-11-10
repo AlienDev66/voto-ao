@@ -1,0 +1,61 @@
+{
+  "updatedAt": "2026-11-09",
+  "notes": "Catálogo inicial de fontes oficiais da Assembleia Nacional. O crawler acrescenta URLs descobertas.",
+  "sources": [
+    {
+      "url": "https://parlamento.ao/noticia",
+      "kind": "pagina",
+      "title": "Todas as Notícias — Assembleia Nacional"
+    },
+    {
+      "url": "https://www.parlamento.ao/DIARIO_DAN_I_SERIE",
+      "kind": "dan_i",
+      "title": "Diário da Assembleia Nacional — I Série"
+    },
+    {
+      "url": "https://www.parlamento.ao/DIARIO_DAN_II_SERIE",
+      "kind": "dan_ii",
+      "title": "Diário da Assembleia Nacional — II Série"
+    },
+    {
+      "url": "https://parlamento.ao/Noticia_72131",
+      "kind": "noticia",
+      "title": "Código do IRPS — votação final global"
+    },
+    {
+      "url": "https://parlamento.ao/Noticia_72135",
+      "kind": "noticia",
+      "title": "Projectos UNITA — protecção de dados / financiamento"
+    },
+    {
+      "url": "https://parlamento.ao/Noticia_61693",
+      "kind": "noticia",
+      "title": "Parlamento aprova 11 diplomas no 1.º trimestre"
+    },
+    {
+      "url": "https://portaladmin.parlamento.ao/storage/dropzone/image/2023_05_16/20230516_084612_DAN%20N.%C2%BA%201%20RPO%2020.10.2022.pdf",
+      "kind": "dan_i",
+      "title": "DAN I Série n.º 1 — 1.ª RPO 20.10.2022"
+    },
+    {
+      "url": "https://portaladmin.parlamento.ao/storage/dropzone/image/2024_09_26/20240926_112144_DI%C3%81RIO%20II%20S%C3%89RIE%20N.%C2%BA%2003%20-%20V%20-%202.%C2%AA%20-%202023-2024.pdf",
+      "kind": "dan_ii",
+      "title": "DAN II Série n.º 03 — V Legislatura 2.ª SL"
+    },
+    {
+      "url": "https://portaladmin.parlamento.ao/storage/dropzone/image/2026_02_11/20260211_150001_DI%C3%81RIO%20II%20S%C3%89RIE%20N.%C2%BA%2001-%20V-%204.%C2%AA%20-%202025-2026.pdf",
+      "kind": "dan_ii",
+      "title": "DAN II Série n.º 01 — V Legislatura 4.ª SL"
+    },
+    {
+      "url": "https://www.parlamento.ao/DIARIO_DAN_II_SERIE_20247",
+      "kind": "dan_ii",
+      "title": "DAN II Série n.º 04 — V Legislatura 4.ª SL"
+    },
+    {
+      "url": "https://www.parlamento.ao/DIARIO_DAN_II_SERIE_20238",
+      "kind": "dan_ii",
+      "title": "DAN II Série n.º 03 — V Legislatura 4.ª SL"
+    }
+  ]
+}
